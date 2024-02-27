@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649267412945",
+    "project_id": "menpradharshana",
+    "storage_bucket": "menpradharshana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649267412945:android:e8b45f171ae7d459ac2af0",
+        "android_client_info": {
+          "package_name": "com.ksrct.menpradharshana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649267412945-mpmb45k90ejqau0aq4kqdobvjne5sa0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALUI_5w9mTdnHJefaldaKtE_UdyVkg9Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649267412945-mpmb45k90ejqau0aq4kqdobvjne5sa0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
